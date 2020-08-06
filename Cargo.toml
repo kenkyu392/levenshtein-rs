@@ -1,0 +1,12 @@
+[package]
+name = "levenshtein-rs"
+version = "0.1.0"
+authors = ["kenkyu392 <57144941+kenkyu392@users.noreply.github.com>"]
+edition = "2018"
+readme = "README.md"
+license = "MIT"
+description = "Levenshtein distance algorithm"
+repository = "https://github.com/kenkyu392/levenshtein-rs"
+keywords = ["algorithm", "distance", "levenshtein"]
+
+[dependencies]
